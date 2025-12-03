@@ -24,3 +24,7 @@ gateway.api.axis.com
 *gateway.api.axis.com
 accws.se.axis.com
 *.accws.se.axis.com
+server-3-171-22-44.ord56.r.cloudfront.net
+*.server-3-171-22-44.ord56.r.cloudfront.net
+server-3-171-22-120.ord56.r.cloudfront.net
+*.server-3-171-22-120.ord56.r.cloudfront.net
